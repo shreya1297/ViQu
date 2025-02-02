@@ -64,9 +64,9 @@ This project was developed as a part of a senior undergraduate initiative, aimin
    cd ViQu
 
 2. Install Required Python Libraries: Ensure you have pip installed, then run:
-
+ ```bash
 pip install -r requirements.txt
-
+```
 ### 3. **Run the Bot**:
    To start the bot, execute the following command in your terminal:
    
@@ -102,7 +102,7 @@ ViQu has a great future scope due to the vast application areas of the individua
 
 4. **Stress Management:**
    Beyond the technical field, ViQu could be used in psychology and mental health assessments. By integrating machine learning and semantic analysis, the bot could assess the stress level of candidates and provide tips on reducing stress if the levels are found to be above a certain threshold.
-```
+
 ---
 
 ### **License**
